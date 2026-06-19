@@ -1,33 +1,39 @@
-# 🐎 Arthur Batista — Estudante Dev em Formação
+# 🤠 Arthur Batista — Futuro Dev (e memelord)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.batista22@escola.pr.gov.br)
 
 ---
 
-## 🤙 Quem sou eu
+## 🔥 Quem é esse maluco?
 
-Fala, dev! 👋  
-Meu nome é **Arthur**, tenho 13/14 anos, curso o **8º ano** na rede estadual do Paraná e já estou me aventurando no mundo da programação.
+Fala, tropa! 👊  
+Eu sou o **Arthur**, tenho **13 anos** (quase 14, mas quem conta idade? 🤫), curso o **8º ano** no Paraná e tô aqui pra dominar o mundo... um código por vez.
 
-Gosto de aprender linguagens novas, quebrar a cabeça com código e, de vez em quando, soltar um meme bem colocado no meio do caos.  
-Meu lema: *"Se rodou, não mexa. Se não rodou, chora e debuga."* 🤡
+Sou aquele mlk que:  
+- Começa projeto animado  
+- Passa raiva com ponto e vírgula  
+- Comemora igual gol quando roda  
+- E se não roda... xinga, debuga e tenta de novo (e de novo, e de novo...)
 
----
-
-## 🧠 O que estou estudando agora
-
-| Tecnologia | Status |
-|------------|--------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Estruturando a web |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Deixando bonito |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | Dando vida aos projetos |
-| ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) | Lógica criativa |
-| ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | Versionando com estilo |
+Meu mantra:  
+> *"Se funcionou, mexe. Se não funcionou, mexe também. O negócio é apertar botão até dar certo."* 🧨
 
 ---
 
-## 📬 Contato (pode chamar, não mordo)
+## 📚 O que tô estudando (e sofrendo)
+
+| Tecnologia | Nível de sofrimento |
+|------------|----------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | 😌 (de boa) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | 😅 (já quebrou 3 vezes) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | 🤯 (tá difícil, mas vai) |
+| ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) | 🐱 (modo carinhoso) |
+| ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | ✅ (commit é vida) |
+
+---
+
+## 📬 Onde me achar (se tiver coragem)
 
 <a href="mailto:arthur.batista22@escola.pr.gov.br">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -35,16 +41,22 @@ Meu lema: *"Se rodou, não mexa. Se não rodou, chora e debuga."* 🤡
 
 ---
 
-## 🎲 Modo meme — nível suave
+## 🤡 Momento meme obrigatório
 
-> *"Programar é tipo miojo: parece rápido, mas se piscar, queima tudo."* 🍜
+> *"Programar é igual fazer miojo: parece fácil, mas se descuidar, queima tudo e você fica com fome."* 🍜
 
-E pra fechar com leveza:
+### Meu estado atual tentando fazer um botão funcionar:
 
 ![](https://media.tenor.com/tXPyA29d1SwAAAAi/cat-raaa.gif)
-
-> *— Arthur, tentando fazer o código funcionar na terceira madrugada seguida.*
+![](https://media.tenor.com/9MlInP80F58AAAAi/cat-tongue-shake-cat-meme.gif)
 
 ---
 
-✨ *README mantido com café, teclas grudadas e um gato dançante. Commits respeitosos são sempre bem-vindos.*
+## 🧃 E é isso, parceiro!
+
+No final do dia, o que vale é o **commit** e a **risada**.  
+Se quiser trocar ideia, mandar um meme ou me ajudar com um bug, tamo junto! 🫡
+
+---
+
+✨ *Perfil mantido com energético, teclado barulhento e um gato que dança melhor que eu. Respeito acima de tudo, mas zuera é bem-vinda.*
