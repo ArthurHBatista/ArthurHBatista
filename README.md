@@ -5,10 +5,10 @@
 
 ---
 
-## 🔥 Quem é esse maluco? 🐱
+## 🔥 Quem é esse MLK? 🐱
 
 Fala, tropa! 👊  
-Eu sou o **Arthur**, tenho **13 anos** (quase 14, mas quem conta idade? 🤫), curso o **8º ano** no Paraná e tô aqui pra dominar o mundo... um código por vez. 🐈‍⬛
+Eu sou o **Arthur**, tenho **14 anos**curso o **8º ano** no Paraná e tô aqui pra dominar o mundo... um código por vez. 🐈‍⬛
 
 Sou aquele mlk que:  
 - 🐱 Começa projeto animado  
