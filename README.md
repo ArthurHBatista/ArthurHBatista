@@ -43,13 +43,13 @@ Meu mantra:
 
 ## 🤡 Momento meme obrigatório 🐱
 
-> *"Programar é igual fazer miojo: parece fácil, mas se descuidar, queima tudo e você fica com fome."* 🍜🐱
+> *"I WILL MAKE YOU LIKE ALL CATS IN THIS BIG WORD."* 🍜🐱
 
 🐈‍⬛
 
-![](https://media.tenor.com/7YLrjRgfm-sAAAAd/cat-band.gif)![](https://media.tenor.com/iwXIIzFHraQAAAAd/cat-cats.gif)
+![](https://media.tenor.com/7YLrjRgfm-sAAAAd/cat-band.gif)
 
-> *— Arthur, tentando fazer o código funcionar na terceira madrugada seguida.* 🐱
+> *— CAAAAAAATS.* 🐱
 
 ---
 
