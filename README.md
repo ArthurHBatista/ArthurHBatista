@@ -47,7 +47,7 @@ Meu mantra:
 
 🐈‍⬛
 
-![](https://media.tenor.com/7YLrjRgfm-sAAAAd/cat-band.gif)
+![](https://media.tenor.com/7YLrjRgfm-sAAAAd/cat-band.gif)![](https://media.tenor.com/iwXIIzFHraQAAAAd/cat-cats.gif)
 
 > *— Arthur, tentando fazer o código funcionar na terceira madrugada seguida.* 🐱
 
